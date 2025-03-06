@@ -38,6 +38,8 @@ This project is licensed under [BSD 3-Clause License](LICENSE).
 
 [//]: # ()
 [//]: # (![Walkghrough video]&#40;assets/images/thumbnails/portfolio_peek.gif&#41;)
+[//]: # ![Screenshot 2025-01-21 at 12 08 32 PM](https://github.com/user-attachments/assets/b4d0039c-ce4a-49f1-9815-c8294884e89c)
+
 
 
 Feel free to check it out and give it a ⭐ if you like it. 
