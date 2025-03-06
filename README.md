@@ -43,5 +43,5 @@ This project is licensed under [BSD 3-Clause License](LICENSE).
 Feel free to check it out and give it a ⭐ if you like it. 
 Follow me for more updates and more projects ...
 
-Copyright (©️) 2023 __YE LWIN OO__# RicProfile
+Copyright (©️) 2025 RicProfile
 # RicProfile
